@@ -1,0 +1,91 @@
+CS 61 Final 2019
+================
+
+You will place all the answers for your exam in this file.
+Please do not place your name anywhere in this file.
+
+
+Problem 1
+---------
+A.
+B.
+C.
+D.
+E.
+F.
+G.
+H.
+I.
+J.
+K.
+L.
+M.
+N.
+
+Problem 2
+---------
+A.
+B.
+C.
+D.
+
+Problem 3
+---------
+A.
+B.
+C.
+D.
+E.
+F.
+
+Problem 4
+---------
+A.
+B.
+C.
+D.
+E.
+
+Problem 5
+---------
+A.
+B.
+C.
+D.
+
+Problem 6
+---------
+A.
+B.
+C.
+D.
+E.
+F.
+
+Problem 7
+---------
+A.
+B.
+C.
+D.
+
+Problem 8
+---------
+A.
+B.
+C.
+D.
+E.
+F.
+G.
+
+Problem 9
+---------
+A.
+B.
+C.
+D.
+
+Problem 10
+----------
+A.
